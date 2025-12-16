@@ -1,5 +1,5 @@
 # REODNet
-Code for paper: REODNet: An Real-Time End-to-End Feature Pyramid Network for Small Object Detection in Underwater Scenarios
+Code for paper:Omni-Kernel Enhanced Real-Time Underwater Small Object Detection with Shared Feature Pyramid Fusion
 
 # Overview Framework
 <div align="center">
